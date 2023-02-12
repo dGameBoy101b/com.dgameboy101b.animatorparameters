@@ -1,0 +1,14 @@
+{
+	"name":"com.dgameboy101b.animatorparameters",
+	"version":"0.0.1",
+	"displayName":"Animator Parameters",
+	"description":"A collection of helper components that interface with animator parameters.",
+	"author":
+	{
+		"name":"dGameBoy101b"
+	},
+	"keywords":
+	[
+		"animator"
+	]
+}
