@@ -7,9 +7,10 @@ namespace dGameBoy101b.AnimatorParameters.Tests
 {
 	public abstract class AnimatorParameterTest
 	{
-
 		protected GameObject game_object;
+
 		protected AnimatorController controller;
+
 		protected Animator animator;
 
 		[SetUp]

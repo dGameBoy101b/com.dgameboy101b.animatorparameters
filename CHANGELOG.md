@@ -11,4 +11,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
  - AnimatorParameter: An abstract base class which links with an Animator and manipulates a named parameter.
  - IntegerAnimatorParameter: Manipulates integer parameters in Animators.
- 
+ - FloatAnimatorParameter: Manipulates float parameters in Animators.
