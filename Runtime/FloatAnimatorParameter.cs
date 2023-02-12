@@ -1,5 +1,8 @@
+using UnityEngine;
+
 namespace dGameBoy101b.AnimatorParameters
 {
+	[AddComponentMenu("Animator Parameter/Float")]
 	public class FloatAnimatorParameter : AnimatorParameter<float>
 	{
 		public override float Value 

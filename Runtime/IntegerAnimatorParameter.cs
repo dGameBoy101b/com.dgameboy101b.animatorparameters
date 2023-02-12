@@ -1,5 +1,8 @@
+using UnityEngine;
+
 namespace dGameBoy101b.AnimatorParameters
 {
+	[AddComponentMenu("Animator Component/Integer")]
 	public class IntegerAnimatorParameter : AnimatorParameter<int>
 	{
 		public override int Value 
