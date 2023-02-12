@@ -9,7 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
- - Vector2AnimatorParameter: Manipulates pairs of float parameter in Animators as Vector2s.
+ - Vector2AnimatorParameter: Manipulates pairs of float parameters in Animators as Vector2s.
+ - Vector3AnimatorParameter: Manipulates triples of float parameters in Animators as Vector3s.
 
 ### Fixed
 

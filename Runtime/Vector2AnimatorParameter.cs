@@ -5,8 +5,8 @@ namespace dGameBoy101b.AnimatorParameters
 	[AddComponentMenu("Animator Parameter/Vector2")]
 	public class Vector2AnimatorParameter : AnimatorParameter<Vector2>
 	{
-		public override Vector2 Value 
-		{ 
+		public override Vector2 Value
+		{
 			get => new Vector2(this.Animator.GetFloat(this.XName), this.Animator.GetFloat(this.YName));
 			set
 			{
