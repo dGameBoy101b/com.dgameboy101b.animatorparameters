@@ -13,3 +13,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - IntegerAnimatorParameter: Manipulates integer parameters in Animators.
  - FloatAnimatorParameter: Manipulates float parameters in Animators.
  - BooleanAnimatorParameter: Manipulates boolean parameters in Animators.
+ - TriggerAnimatorParameter: Manipulates trigger parameters in Animtors as booleans.
