@@ -9,21 +9,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
- - Vector2AnimatorParameter: Manipulates pairs of float parameters in Animators as Vector2s.
- - Vector3AnimatorParameter: Manipulates triples of float parameters in Animators as Vector3s.
- - IntegerVector2AnimatorParameter: Manipulates pairs of integer parameters in Animators as Vector2Ints.
- - IntegerVector3AnimatorParameter: Manipulates triples of integer parameters in Animators as Vector3Ints.
+ - **Vector2 Animator Parameter**: Manipulates pairs of float parameters in Animators as Vector2s.
+ - **Vector3 Animator Parameter**: Manipulates triples of float parameters in Animators as Vector3s.
+ - **Integer Vector2 Animator Parameter**: Manipulates pairs of integer parameters in Animators as Vector2Ints.
+ - **Integer Vector3 Animator Parameter**: Manipulates triples of integer parameters in Animators as Vector3Ints.
 
 ### Fixed
 
- - Fixed IntegerAnimatorParameter showing in the wrong add component submenu.
+ - Fixed Integer Animator Parameter showing in the wrong add component submenu.
 
 ## [0.1.0] - 2023-02-12
 
 ### Added 
 
- - AnimatorParameter: An abstract base class which links with an Animator and manipulates a named parameter.
- - IntegerAnimatorParameter: Manipulates integer parameters in Animators.
- - FloatAnimatorParameter: Manipulates float parameters in Animators.
- - BooleanAnimatorParameter: Manipulates boolean parameters in Animators.
- - TriggerAnimatorParameter: Manipulates trigger parameters in Animtors as booleans.
+ - **Animator Parameter**: An abstract base class which links with an Animator and manipulates a named parameter.
+ - **Integer Animator Parameter**: Manipulates integer parameters in Animators.
+ - **Float Animator Parameter**: Manipulates float parameters in Animators.
+ - **Boolean Animator Parameter**: Manipulates boolean parameters in Animators.
+ - **Trigger Animator Parameter**: Manipulates trigger parameters in Animtors as booleans.
