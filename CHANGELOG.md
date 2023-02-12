@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
  - **Color Animator Parameter**: Manipulates quadruples of float parameter in Animators as Colors.
  - **Vector4 Animator Parameter**: Manipulates quadruples of float parameters in Animaters as Vector4s.
+ - **Quaternion Animator Parameter**: Manipulates quadruples of float parameters in Animators as Quaternions.
 
 ### Fixed
 
