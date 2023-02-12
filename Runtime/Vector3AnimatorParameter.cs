@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace dGameBoy101b.AnimatorParameters
 {
-	[AddComponentMenu("Animator Parameter/Vector3")]
+	[AddComponentMenu("Animator Parameter/Vector3 Animator Parameter")]
 	public class Vector3AnimatorParameter : AnimatorParameter<Vector3>
 	{
 		public string XName { get => this.ParameterName + ".x"; }

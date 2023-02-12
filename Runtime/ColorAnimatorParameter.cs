@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace dGameBoy101b.AnimatorParameters
 {
-	[AddComponentMenu("Animator Parameter/Color")]
+	[AddComponentMenu("Animator Parameter/Color Animator Parameter")]
 	public class ColorAnimatorParameter : AnimatorParameter<Color>
 	{
 		public string RedName { get => this.ParameterName + ".red"; }

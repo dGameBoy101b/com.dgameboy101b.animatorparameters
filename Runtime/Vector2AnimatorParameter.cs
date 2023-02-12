@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace dGameBoy101b.AnimatorParameters
 {
-	[AddComponentMenu("Animator Parameter/Vector2")]
+	[AddComponentMenu("Animator Parameter/Vector2 Animator Parameter")]
 	public class Vector2AnimatorParameter : AnimatorParameter<Vector2>
 	{
 		public override Vector2 Value

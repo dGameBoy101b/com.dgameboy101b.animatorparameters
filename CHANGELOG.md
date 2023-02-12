@@ -12,6 +12,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - **Color Animator Parameter**: Manipulates quadruples of float parameter in Animators as Colors.
  - **Vector4 Animator Parameter**: Manipulates quadruples of float parameters in Animaters as Vector4s.
 
+### Fixed
+
+ - Fixed animator parameters showing the wrong name in the inspector.
+
 ## [0.2.0] - 2023-02-12
 
 ### Added

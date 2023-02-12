@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace dGameBoy101b.AnimatorParameters
 {
-	[AddComponentMenu("Animator Parameter/Trigger")]
+	[AddComponentMenu("Animator Parameter/Trigger Animator Parameter")]
 	public class TriggerAnimatorParameter : AnimatorParameter<bool>
 	{
 		public override bool Value 
