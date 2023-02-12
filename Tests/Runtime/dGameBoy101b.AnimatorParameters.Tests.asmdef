@@ -1,0 +1,24 @@
+{
+    "name": "dGameBoy101b.AnimatorParameters.Tests",
+    "rootNamespace": "dGameBoy101b.AnimatorParameters.Tests",
+    "references": [
+        "GUID:8d209c40d2fc26c42a9685d9670576c5",
+        "GUID:27619889b8ba8c24980f49ee34dbb44a",
+        "GUID:0acc523941302664db1f4e527237feb3"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
